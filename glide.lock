@@ -1,0 +1,6 @@
+hash: 43fad66c0115d91ef89aa9cffae14e89b29c07a3b1fef9bcdca1adbc68bcfb68
+updated: 2017-10-25T22:50:29.806583915+11:00
+imports:
+- name: github.com/blevesearch/bleve
+  version: c048833fcdcf5b86fe09d9c1077147abf8c30416
+testImports: []
